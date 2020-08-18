@@ -1,2 +1,2 @@
-order.pay-timeout-seconds=60
-order.create-frequency-seconds=120
+order.pay-timeout-seconds=120
+order.create-frequency-seconds=240
